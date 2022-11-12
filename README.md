@@ -4,7 +4,7 @@ Based on [this medium post](https://medium.com/helium-foundation/hip-70-evaluati
 
 ## TLDR
 
-Cardano is a organically decentralized eco system with a large pool of single stake pool operators and a high Nakamoto Coefficient. It's predictably reliable and performant, with a clear roadmap for further decentralization with upcoming the Voltaire hard fork as well as scaling solutions, Hydra, that will put the TPS far beyond the needs of Helium. Cardano has a strong developer community and a fast evolving developer tooling eco system. Continue reading to see why Cardano is a great choice for Helium as a L1.
+Cardano is an organically decentralized eco system with a large pool of single stake pool operators and a high Nakamoto Coefficient. It's predictably reliable and performant, with a clear roadmap for further decentralization with upcoming the Voltaire hard fork as well as scaling solutions, Hydra, that will put the TPS far beyond the needs of Helium. Cardano has a strong developer community and a fast evolving developer tooling eco system. Continue reading to see why Cardano is a great choice for Helium as a L1.
 
 ## Compatible Wallet Cryptography
 
