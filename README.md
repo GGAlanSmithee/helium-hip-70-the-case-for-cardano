@@ -8,7 +8,7 @@ Cardano is an organically decentralized eco system with a large pool of single s
 
 ## Compatible Wallet Cryptography
 
-While Cardano doesn't use the same key algorithms as Helium, it has shown to be willing to create primitives to ease cross chain interoperability, by adding support for secp by popular request. I would not be surprised if they would be able to do the same for ed25519.
+Cardano supports Ed25519 signatures, which is the same as Heliums wallet cryptography. This should make it easy to move helium wallets to Cardano.
 
 * https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/
 
@@ -104,7 +104,7 @@ The cost to run a mainnet node, or a full node - Daedalus - is practically 0, as
 
 ## Other Proof of Physical Work Projects
 
-World Mobile
+World Mobile who are bringing affordable internet to Africa
 
 * https://worldmobiletoken.com/
 
