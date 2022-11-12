@@ -104,8 +104,13 @@ The cost to run a mainnet node, or a full node - Daedalus - is practically 0, as
 
 ## Other Proof of Physical Work Projects
 
-World Mobile who are bringing affordable internet to Africa
+World Mobile, who are bringing affordable internet to Africa, has some common denominators with Helium in the sense that they are distributing infrastructure to previously uncovered areas. It doesn't provide LoraWAN or 5G coverage as helium does, but their work is no less technically challenging or important. Should serve as a really good case study for Helium were they to move to Cardano.
 
 * https://worldmobiletoken.com/
 
 ## Mobile Wallet Platform and Phone Project
+
+There is no phone project on Cardano that I know of, but there are plenty of mobile wallets like exodus, yorio, and more. 
+
+* https://www.exodus.com/ada-cardano-wallet
+* https://yoroi-wallet.com/#/
