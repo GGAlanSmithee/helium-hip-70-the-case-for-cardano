@@ -79,20 +79,33 @@ Further more, IOG, the organization behind Cardano has proven that they are will
 
 ## Strong Exchange Support for Protocol Tokens
 
-Since Cardano's native token ADA is a top ten coin, it has great exchange support. The only major exchange not wanting to list ADA was FTX.
+Since Cardano's native token ADA is a top ten coin, it has great exchange support. In regards to protocol tokens, any exchange who has ADA listed, can list any Cardano native token. 
+
+* https://www.binance.com/en/news/top/7162618
 
 ## Several Wallet Teams
 
-Nami, eternl, Daedalus, Lace, Yoroi, and many more.
+There are many independent wallet teams on Cardano that produces both cold wallets, hot wallets and web 3 wallets. In many of these you can stake your ADA while keeping them liquid.
+
+* https://namiwallet.io/
+* https://ccvault.io/app/mainnet/welcome
+* https://daedaluswallet.io/
+* https://www.cardanowallet.io/
+* https://www.lace.io/
+* https://yoroi-wallet.com/#/
 
 ## More Than One Validator Client
 
 ## Cost to Run a Mainnet Node
 
-Daedalus 
+The cost to run a mainnet node, or a full node - Daedalus - is practically 0, as you can run it on your home computer. According to a recent video from Charles Hoskinson, running a validator node cost you about $800 up front and with a minimal recurring cost of internet and powering a low-end computer.
+
+* https://www.youtube.com/watch?v=oH5AZ5f43Qo
 
 ## Other Proof of Physical Work Projects
 
 World Mobile
+
+* https://worldmobiletoken.com/
 
 ## Mobile Wallet Platform and Phone Project
