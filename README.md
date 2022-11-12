@@ -114,12 +114,14 @@ There are many independent wallet teams on Cardano that produces both cold walle
 * https://ccvault.io/app/mainnet/welcome
 * https://daedaluswallet.io/
 * https://www.cardanowallet.io/
-* https://www.lace.io/
+* https://www.lace.io/  
 * https://yoroi-wallet.com/#/
 
 ## More Than One Validator Client
 
-Not really sure what this means in the context. If someone clarifies this, I will research it.
+As far as I can find, there is only one validator client - cardano-node. There has been suggestions on this, one that made it in to code (Rust), but has since been discontinued.
+
+* https://github.com/input-output-hk/rust-byron-cardano
 
 ## Cost to Run a Mainnet Node
 
