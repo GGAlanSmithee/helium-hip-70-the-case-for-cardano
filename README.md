@@ -35,10 +35,16 @@ On top of this, because of Cardano's native token concept, there are a lot of NF
 
 ## Transaction Cost
 
-Cardano has a fixed transaction cost, which is 0.17 ADA, or at the time of writing $0.06 per transaction. This is compared to Heliums $0.35 transaction cost. This will however increase as the price of Cardano does. With Cardano, you can also send many different tokens in one transaction, making it very cost effective. For example, on Cardano, you could send 100 assets to different addresses in one transaction, for the same cost as sending one asset to one address on Helium. This is impossible on Solana, which makes the comparison unfair.
+Cardano has a fixed base transaction cost for transactions and certain simple script executions (up to 340 Bytes), which is 0.17 ADA, or at the time of writing $0.06 per transaction. This is compared to Heliums $0.35 transaction cost. This will however increase as the price of Cardano does. 
+
+When interacting with a smart contract, you have to pay a cost for CPU and memory depending on the complexity and size of the contract.
+
+With Cardano, you can also send many different tokens in one transaction, making it very cost effective. For example, on Cardano, you could send 100 assets to different addresses in one transaction, for the same cost as sending one asset to one address on Helium. This is impossible on Solana, which makes the comparison unfair.
 
 * https://cardano.stackexchange.com/a/6167
 * https://www.binance.com/en/news/top/7082501
+* https://iohk.io/en/blog/posts/2022/01/21/plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano/
+
 
 ## High Transaction Throughput
 
