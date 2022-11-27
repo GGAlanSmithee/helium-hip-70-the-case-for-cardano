@@ -69,7 +69,7 @@ However, with the recent rollout and ongoing adoption of Vasil, the theoretical 
 
 ### L2 Scaling Solutions
 
-Even though, this is outside of the scope of the comparison, it might be interesting to know that the Cardano ecosystem is working on many L2 solutions, one being Hydra, which will allow for a much higher TPS. Early tests shows that the TPS could go into the millions. In a real world scenario, this is yet to be proven though. Below is a twitter post of a PoC video transacting 1000 TPS in one stake pool (there are around 3000 stake pools on Cardano).
+_Even though, this is outside of the scope of the comparison, it might be interesting to know that the Cardano ecosystem is working on many L2 solutions, one being Hydra, which will allow for a much higher TPS. Early tests shows that the TPS could go into the millions. In a real world scenario, this is yet to be proven though. Below is a twitter post of a PoC video transacting 1000 TPS in one stake pool (there are around 3000 stake pools on Cardano)._
 
 ## Access to Leaders or Senior Developers
 
