@@ -48,16 +48,28 @@ With Cardano, you can also send many different tokens in one transaction, making
 
 ## High Transaction Throughput
 
-For the moment, Cardano is capped at 7 TPS (remember that you can send multiple assets to multiple addresses in one transaction). This is based on a blockchain parameter, `maxBlockSize`, which is currently set to 65536 bytes. One transaction is around 450 bytes, which means that a block can contain around 145 transactions. One block is processed every 20 seconds, making the TPS around 7. However, with the rollout and adoption of Vasil, the theoretical number is probably a lot higher since it added reference inputs which can reduce the size of a transaction by up to 90%.
+For the moment, Cardano is capped at 7 TPS (remember that you can send multiple assets to multiple addresses in one transaction). This is based on a blockchain parameter, `maxBlockSize`, which is currently set to 65536 bytes. One transaction is around 450 bytes, which means that a block can contain around 145 transactions. One block is processed every 20 seconds, making the TPS around 7. 
 
-Last epoch - five day period - Cardano processed 363,843 transactions over 432,000 "slots" making the effective TPS 0.84. This shows that there are plenty of room with current block parameters. Should there be a need for it, `maxBlockSize` can easily be increased to a low estimate of 50 TPS. To mitigate block size related centralization, Cardano is working on a technology called Mithril, which will make bootstrapping easier, and make it possible to run lightweight full nodes, even in hot wallets.
+In a randomly selected epoch - five day period - during late 2022, Cardano processed 363,843 transactions over 432,000 "slots" making the effective TPS 0.84. This shows that there are plenty of room with current block parameters. Should there be a need for it, `maxBlockSize` can easily be increased to a low estimate of 50 TPS. To mitigate block size related centralization, Cardano is working on a technology called Mithril, which will make bootstrapping easier, and make it possible to run lightweight full nodes, even in hot wallets. Also, take into account that this was during the depths of a bear market, and that the number of transactions will increase as the price of ADA and market sentiment increases.
 
-Cardano are working on a L2 scaling solution called Hydra which will allow for a much higher TPS. Early tests shows that the TPS could go into the millions. In a real world scenario, this is yet to be proven though. Below is a twitter post of a PoC video transacting 1000 TPS in one stake pool (there are around 3000 stake pools on Cardano).
+Here is a realistic Cardano block capacity example
+
+![cardano block capacity example](cardano-block-capacity-example.png)
+
+However, with the recent rollout and ongoing adoption of Vasil, the theoretical number is probably a lot higher since it added reference inputs which can reduce the size of a transaction by up to 90%. As a case study, Indigo - an advanced defi application dealing with synthetic assets and LP pools - are able to represent complex transactions in a 1kB transaction, probably using a combination of Vasil features and Plutarch, a "typed eDSL in Haskell for writing efficient Plutus Core validators".
 
 * https://www.quora.com/How-many-transactions-per-second-TPS-can-Cardano-do-and-what-does-this-mean-for-the-network
 * https://explorer.cardano.org/en/epoch?number=374
 * https://twitter.com/SundaeSwap/status/1580969361892085762
 * https://docs.cardano.org/development-guidelines/scalability-solutions/mithril
+* https://twitter.com/matiwinnetou/status/1596636514133413888
+* https://github.com/Plutonomicon/plutarch-plutus
+* https://indigoprotocol.io/
+
+
+### L2 Scaling Solutions
+
+Even though, this is outside of the scope of the comparison, it might be interesting to know that the Cardano ecosystem is working on many L2 solutions, one being Hydra, which will allow for a much higher TPS. Early tests shows that the TPS could go into the millions. In a real world scenario, this is yet to be proven though. Below is a twitter post of a PoC video transacting 1000 TPS in one stake pool (there are around 3000 stake pools on Cardano).
 
 ## Access to Leaders or Senior Developers
 
