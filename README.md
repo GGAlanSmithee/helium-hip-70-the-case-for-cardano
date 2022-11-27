@@ -58,6 +58,8 @@ Here is a realistic Cardano block capacity example
 
 However, with the recent rollout and ongoing adoption of Vasil, the theoretical number is probably a lot higher since it added reference inputs which can reduce the size of a transaction by up to 90%. As a case study, Indigo - an advanced defi application dealing with synthetic assets and LP pools - are able to represent complex transactions in a 1kB transaction, probably using a combination of Vasil features and Plutarch, a "typed eDSL in Haskell for writing efficient Plutus Core validators".
 
+_Another potential upgrade to Ouroboros, Cardano's proof-of-stake protocol, is Leios which aims to optimize the current implementations under-utilization of validator nodes CPU and bandwidth usage. See the linked documents regarding it below for details._
+
 * https://www.quora.com/How-many-transactions-per-second-TPS-can-Cardano-do-and-what-does-this-mean-for-the-network
 * https://explorer.cardano.org/en/epoch?number=374
 * https://twitter.com/SundaeSwap/status/1580969361892085762
@@ -65,7 +67,8 @@ However, with the recent rollout and ongoing adoption of Vasil, the theoretical 
 * https://twitter.com/matiwinnetou/status/1596636514133413888
 * https://github.com/Plutonomicon/plutarch-plutus
 * https://indigoprotocol.io/
-
+* [Leios PR](https://github.com/cardano-foundation/CIPs/pull/379)
+* https://github.com/cardano-foundation/CIPs/blob/ouroboros-leios/CIP-XXXX/leios-design.pdf
 
 ### L2 Scaling Solutions
 
