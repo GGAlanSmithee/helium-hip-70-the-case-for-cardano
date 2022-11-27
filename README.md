@@ -161,3 +161,15 @@ There is no phone project on Cardano that I know of, but there are plenty of mob
 
 * https://www.exodus.com/ada-cardano-wallet
 * https://yoroi-wallet.com/#/
+
+## Additional Points
+
+Even though, not a part of the Medium post, there are some other points that I think are worth mentioning. Just like Solana has their phone project going for them so does Cardano in other aspects. Two recent, and very exciting news is the Cardano side chain Midnight, and the upcoming cardano era of Voltaire - governance.
+
+### Midnight
+
+Even though not too much is known about it right now, Midnight will be a Cardano privacy side chain that will allow companies, entities and individuals to integrate with Cardano while keeping sensitive data secret, using something called zero knowledge (zk) proofs. This could potentially be huge for Helium, who is looking to land a lot of real-world projects.
+
+### Voltaire
+
+Cardano is taking the step into true decentralization with Voltaire - the era of governance. There is a Cardano Improvement Proposal (CIP) being evaluated now, that will formally start Voltaire. There are some commonalities between how Cardano and Helium are governed, in regards to voting, that could make the transition easier. I suggest looking at the PR: https://github.com/cardano-foundation/CIPs/pull/380
