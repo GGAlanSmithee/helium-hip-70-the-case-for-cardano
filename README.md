@@ -100,10 +100,12 @@ Further more, IOG, the organization behind Cardano has proven that they are will
 
 As previously mentioned, Cardano uses Haskell, which I would be hard pressed to argue is either popular or common. I would, however, argue that it is a very good choice for a blockchain, as it is a pure functional language, which again makes it easier to prove code correctness.
 
-Also, as previously mentioned, there is a lot of cross-compilation tools being developed, which will make it easier to use other languages. TypeScript is very popular and allows for developers to write both customer facing dApps (webb) and smart contracts in the same language.
+Also, as previously mentioned, there is a lot of cross-compilation tools being developed, which will make it easier to use other languages. TypeScript is very popular and allows for developers to write both customer facing dApps (webb) and smart contracts in the same language. Down below is two projects that allows you to write both smart contracts and dApps in typescript; plu-ts (still in early development) and cardano-lucid.
 
 As you can see on Stack Overflows yearly survey, JS is the most popular, and TS is the 5th most popular language. Rust is number 14.
 
+* https://github.com/HarmonicLabs/plu-ts
+* https://github.com/spacebudz/lucid
 * https://survey.stackoverflow.co/2022/#technology
 
 ## Strong Exchange Support for Protocol Tokens
