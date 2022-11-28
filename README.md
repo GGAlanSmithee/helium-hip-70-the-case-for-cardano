@@ -35,7 +35,7 @@ On top of this, because of Cardano's native token concept, there are a lot of NF
 
 ## Transaction Cost
 
-Cardano has a fixed base transaction cost for transactions and certain simple script executions (up to 340 Bytes), which is 0.17 ADA, or at the time of writing $0.06 per transaction. This is compared to Heliums $0.35 transaction cost. This will however increase as the price of Cardano does. 
+Cardano has a fixed base transaction cost for transactions and certain simple script executions (up to 340 Bytes), which is 0.17 ADA, or at the time of writing $0.06 per transaction. Helium has a $0.35 transaction cost, but they are able to handle a lot of transactions 'internally', without a fee at all, which Cardano, and AFAIK other L1 solutions, aren't able to.
 
 When interacting with a smart contract, you have to pay a cost for CPU and memory depending on the complexity and size of the contract.
 
